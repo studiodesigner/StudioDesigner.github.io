@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://studiodesigner.info/scripts/form_check.php</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/scripts/form_throttle.php</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/scripts/form_process.php</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/scripts/form-u5048.php</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/scripts/form-u5076.php</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://studiodesigner.info/images/logo.png</loc>
     <lastmod>2014-10-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -1627,8 +1657,56 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://studiodesigner.info/images/u5060-17.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/images/u5060-17-r.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/images/u5060-17-m.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/images/u5060-17-fs.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/images/u5099-17.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/images/u5099-17-r.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/images/u5099-17-m.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://studiodesigner.info/images/u5099-17-fs.png</loc>
+    <lastmod>2014-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://studiodesigner.info/index.html</loc>
-    <lastmod>2014-09-30</lastmod>
+    <lastmod>2014-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://studiodesigner.info/tablet/index.html"/>

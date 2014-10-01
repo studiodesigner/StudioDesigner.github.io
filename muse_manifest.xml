@@ -1,7 +1,7 @@
-<manifest alg="2" build="375" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412148601395">
+<manifest alg="2" build="375" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412168385962">
   <folder name="css">
-    <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="4202304587" ref="index"/>
+    <file name="site_global.css" crc="475549095"/>
+    <file name="index.css" crc="3925783393" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4146222537" ref="tablet>index:index"/>
@@ -15,6 +15,11 @@
     <file name="touchswipe.js" crc="381331978" ref="tablet>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4136176637" ref="tablet>index:index"/>
     <file name="museredirect.js" crc="235403306" ref="index"/>
+    <file name="form_check.php" crc="4099280525" ref="index:tablet>index"/>
+    <file name="form_throttle.php" crc="354368968" ref="index:tablet>index"/>
+    <file name="form_process.php" crc="4275242143" ref="index:tablet>index"/>
+    <file name="form-u5048.php" crc="4059241355" ref="index"/>
+    <file name="form-u5076.php" crc="214582034" ref="tablet>index"/>
   </folder>
   <folder name="images">
     <file name="logo.png" crc="3930833744" ref="tablet>index:index"/>
@@ -288,12 +293,20 @@
     <file name="canova--u4669-fr.jpg" crc="3831624431" ref="index"/>
     <file name="canova--100-heiffel-u4662-fr.jpg" crc="498099486" ref="index"/>
     <file name="canova--u4663-fr.jpg" crc="505326353" ref="index"/>
+    <file name="u5060-17.png" crc="499115322" ref="index"/>
+    <file name="u5060-17-r.png" crc="212395934" ref="index"/>
+    <file name="u5060-17-m.png" crc="402423243" ref="index"/>
+    <file name="u5060-17-fs.png" crc="400486245" ref="index"/>
+    <file name="u5099-17.png" crc="499115322" ref="tablet>index"/>
+    <file name="u5099-17-r.png" crc="212395934" ref="tablet>index"/>
+    <file name="u5099-17-m.png" crc="402423243" ref="tablet>index"/>
+    <file name="u5099-17-fs.png" crc="400486245" ref="tablet>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="289513067" ref="tablet>index"/>
+      <file name="index.css" crc="80006198" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="103517865" mt="1412078705927" redirect="true"/>
+    <file name="index.html" crc="114618438" mt="1412168289120" redirect="true"/>
   </folder>
-  <file name="index.html" crc="494535084" mt="1412088868848" redirect="true"/>
+  <file name="index.html" crc="359993955" mt="1412168343282" redirect="true"/>
 </manifest>
